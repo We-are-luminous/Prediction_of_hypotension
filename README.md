@@ -17,7 +17,7 @@
 ## 🌱 결과
 - SBP 예측 모델
 <img src="https://user-images.githubusercontent.com/80669355/146491855-79495ad2-af86-41f6-990c-08f499962e47.png"  width="400" height="400">
-<bt>
+<br>
 - MBP 예측 모델
 <img src="https://user-images.githubusercontent.com/80669355/146491763-609afa68-e309-49f5-85dc-6bd127e2a193.png"  width="400" height="400">
 
