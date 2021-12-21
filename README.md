@@ -9,11 +9,10 @@
 - 빅데이터공학과 18학번 정은서
 
 ## 🛠 Tech Stack
-- Python3
 - R
 
 ## ✔ 흐름도
-<img src="https://user-images.githubusercontent.com/80669355/146491616-62f4a2c1-1e94-413d-8f07-b2515fa9aa97.PNG"  width="700" height="300">
+<img src="https://user-images.githubusercontent.com/80669355/146886006-11eb7abf-38cf-4fb0-b939-793af7a9d430.png"  width="700" height="300">
 
 ## 🌱 결과
 - SBP 예측 모델
